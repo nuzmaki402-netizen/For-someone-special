@@ -50,7 +50,7 @@ body {
 }
 
 /* Buttons */
-button {
+/*button {
     background-color: #dbcaca;
     color: rgb(76, 76, 235);
     font-weight: 600;
@@ -65,13 +65,27 @@ button {
 
     transition: all 0.3s ease;
     min-width: 120px;
+}*/
+button {
+    background: #ffd6e0;   /* Soft pink */
+    color: #ff2f68;        /* Dark pink text */
+    font-weight: 600;
+
+    border: 2px solid #ffb3c6;
+    border-radius: 25px;
+
+    padding: 14px 22px;
+    font-size: 16px;
+
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
 
 /* Hover */
 button:hover {
+    background: #ff5f8a;
     color: white;
-    background: rgb(214, 26, 26);
-    border-color: rgb(207, 207, 224);
+    border-color: #ffb3c6;
 }
 
 /* ========================= */
@@ -133,3 +147,4 @@ button:hover {
         padding: 15px 25px;
     }
 }
+
