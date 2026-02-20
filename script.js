@@ -1,14 +1,14 @@
 
 
 let image =[
-    "photo/64ef9efe0703f196e3146739e84bbadf.gif",
-    "photo/h.gif",
-    "photo/kittycass-peachcat.gif",
+    "/For-someone-special/64ef9efe0703f196e3146739e84bbadf.gif",
+    "/For-someone-special/h.gif",
+    "/For-someone-special/kittycass-peachcat.gif",
    
 ];
 
 let image1 =[
-    "photo/60b4f9c20f6b6536bc232355030c4b7a.gif",
+    "/For-someone-special/60b4f9c20f6b6536bc232355030c4b7a.gif",
 ]
 let texts1=[
     "Hehehehe, I knew it!😘"
@@ -125,4 +125,5 @@ para.innerText= "tum meri life ka sabsa cute surprise ho 💖🥰 main hamesha t
     body.appendChild(para);
         
     
+
     };
