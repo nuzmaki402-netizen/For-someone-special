@@ -1,0 +1,32 @@
+
+body{
+    text-align: center;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    padding: 0 10px;
+    background: linear-gradient(135deg, #ff9a9e 0%,  #fad0c4 100%);
+ 
+}
+button{
+    background-color: #dbcaca;
+    color: rgb(76, 76, 235);
+font-weight: 600;
+text-decoration:none;
+border: none;
+padding: 15px 20px;
+cursor: pointer;
+border-radius: 25px;
+font-size: 16px;
+border: 2px solid transparent;
+transition: all 0.3s ease;
+
+
+}
+button:hover{
+    color: rgb(218, 205, 205);
+    background: rgb(214, 26, 26);
+    border-color: rgb(207, 207, 224);
+}
