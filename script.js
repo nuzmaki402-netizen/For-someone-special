@@ -107,7 +107,7 @@ if (newbtn) newbtn.remove();
 // creat paragraph
 let para = document.createElement("p");
 
-para.innerText= "tum meri life ka sabsa cute surprise ho 💖🥰 main hamesha tumhare sath rahna chahta hoon 💖✨"
+para.innerText= "Tum Meri Life Ka Sabsa Cute Surprise Ho 💖🥰 Main Hamesha Tumhare Sath Rahna Chahta Hoon 💖✨"
 
     //  styling
     para.style.color = "white";
@@ -127,4 +127,5 @@ para.innerText= "tum meri life ka sabsa cute surprise ho 💖🥰 main hamesha t
     
 
     };
+
 
