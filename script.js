@@ -7,8 +7,8 @@ let image =[
 
 let image1 =[
     "./60b4f9c20f6b6536bc232355030c4b7a.gif",
-    "/pic/yes1.gif",
-    "/pic/yes2.gif",
+    "./yes1.gif",
+    "./yes2.gif",
 ]
 
 let texts1=[
@@ -195,7 +195,7 @@ heading.style.textShadow = "0 0 10px rgba(0,0,0,0.3)";
 
 // ✅ NEW: Music player
 let audio = document.createElement("audio");
-audio.src = "/pic/nazar.m4a";      // 👈 apni music file ka naam yaha likho
+audio.src = "./nazar.mp3";      // 👈 apni music file ka naam yaha likho
 audio.controls = true;           // play/pause button dikhega
 audio.autoplay = true;           // click karte hi music start
 audio.loop = true;               // music repeat hogi
