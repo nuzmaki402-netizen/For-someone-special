@@ -12,8 +12,8 @@ let image1 =[
 ]
 
 let texts1=[
-    "ek baar aur soch la",
-    "sure?",
+    "ek baar aur soch la 🥲",
+    "sure? 🌝",
     "Hehehehe, I knew it!😘"
 ]
 let texts =[
